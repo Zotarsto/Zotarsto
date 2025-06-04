@@ -57,7 +57,8 @@
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/juan-rodriguez-sotarriba)
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-rodriguez-sotarriba-797620268)
+
 - 💌 Email: rodgz.stria@gmail.com
 <!-- - 🌐 [Portfolio (opcional si tienes sitio web)](https://tusitio.com) -->
 
